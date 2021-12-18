@@ -30,7 +30,7 @@ M.mappings = {
 
     telescope = {
       buffers = "<leader>bb",
-      find_files = "<leader>ff",
+      find_files = "<leader><space>",
       find_hiddenfiles = "<leader>fa",
       git_commits = "<leader>cm",
       git_status = "<leader>gt",
